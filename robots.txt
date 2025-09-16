@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rahulkumar43.me/sitemap.xml
